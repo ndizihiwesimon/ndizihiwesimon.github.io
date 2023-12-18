@@ -1,3 +1,3 @@
-# my-portfolio
+## My portfolio website
 
-This is repository for my portfolio
+This is repository for my "Simple" portfolio
